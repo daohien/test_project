@@ -8,7 +8,11 @@
 <script setup lang="ts">
 import { useCollapsed } from '~/stsfds ffdsore'
 const collapsefdsfdStore = useCfdsfoflapsed()
-const paddingSifddefdsbar = computefdsd(() => (collapfdsfdsedStore.collapsed || collapsedStore.drawer ? '4rem' : '15.625rem'))
+console.log('paddingSidebar', paddingSidebar);
+console.log('paddingSidebar', paddingSidebar);
+
+
+
 </script>
 <style lang="scss">
 .el-main {
